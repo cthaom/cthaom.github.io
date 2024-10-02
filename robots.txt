@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cthaom.github.io/xrM/sitemap.xrM.gz
